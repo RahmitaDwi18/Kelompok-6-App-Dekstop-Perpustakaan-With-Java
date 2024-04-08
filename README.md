@@ -1,0 +1,2 @@
+# Note (INI PROJECT TAHAP BETA, YANG FINAL DI):
+PROJECT FINALLNYA YANG SUDAH JADI: https://github.com/fadhil-dev/Tugas-PSDA-K6
